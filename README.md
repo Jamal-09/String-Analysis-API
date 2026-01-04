@@ -1,6 +1,4 @@
-# 🚀 HNG-13: STAGE 1 (#track_backend)
-
-## Intelligent String Analysis Backend
+# Intelligent String Analysis Backend 🧠
 
 ## Overview
 
@@ -158,6 +156,5 @@ Welcome to the string anlyzer API
 Connect with me:
 
 - 📧 Email: napg.adekunle@gmail.com
-- 🌈 Slack: Jamal-09
 
 ### Built with 💻 & ❤️ by Jamal
